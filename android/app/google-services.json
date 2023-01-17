@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496952142177",
+    "project_id": "bloc-app-477a4",
+    "storage_bucket": "bloc-app-477a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496952142177:android:5971d2cc05d5c98cf33d20",
+        "android_client_info": {
+          "package_name": "com.example.my_notes_firebase_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496952142177-2tabvgov0l5kk05d4mo0ufqhf6s0nsqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmaCzLczWiVsA9uTq0gHLB9TlLycV_uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496952142177-2tabvgov0l5kk05d4mo0ufqhf6s0nsqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
